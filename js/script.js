@@ -2,7 +2,6 @@ let first = parseInt(+prompt('Введите первое число'), 10);
 let second = parseInt(+prompt('Введите второе число'), 10);
 first > second ? alert(first) : alert(second);
 
-
 //--------------------------------------------------------------------------
 
 let a = +prompt('введите кратное число');
